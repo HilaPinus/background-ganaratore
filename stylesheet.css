@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url("ad.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+li {
+    display: inline;
+    margin: 20px;
+}
+
+nav {
+    background-color: white;
+    padding: 15px;
+    text-align: right;
+    font-weight: bold;
+    position: relative;
+}
+
+.icon{
+    
+}
+h1 {
+    font-size: 200px;
+    color: white;
+    padding: 20px;
+    text-shadow: 4px 4px gray;
+    font-family: "Sofia", sans-serif;
+}
+
+.rigth {
+    position: absolute;
+    right: 50px;
+}
+
+.content {
+padding: 50px;
+}
+
+p {
+    background-color: white;
+    color:black
+}
